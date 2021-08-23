@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="order">
-      <HeaderTop tittle="订单列表"/>
+      <HeaderTop title="订单列表"/>
       <section class="order_no_login">
         <img src="./images/order/person.png" />
         <h3>登录后查看外卖订单</h3>
